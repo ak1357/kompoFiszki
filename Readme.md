@@ -3,7 +3,7 @@ KompoFiszki to uproszczony system do nauki słownictwa we wszystkich językach. 
 #### Dane dostępowe do wersji demonstracyjnej
 1. użytkownik zwykły 
   - l: tester
-  - l: tester123
+  - p: tester123
 2. administrator
   - l: admin
-  - l: admin123
+  - p: admin123
